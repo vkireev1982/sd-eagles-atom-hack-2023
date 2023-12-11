@@ -1,0 +1,1080 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/strana-rosatom.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.6"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='bootstrap-css-css'  href='https://strana-rosatom.ru/wp-content/themes/strana-rosatom/js/bootstrap/bootstrap.min.css?ver=6.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='https://strana-rosatom.ru/wp-content/themes/strana-rosatom/style.css?ver=1701980003' type='text/css' media='all' />
+<link rel='stylesheet' id='jqueryui-css-css'  href='https://strana-rosatom.ru/wp-content/themes/strana-rosatom/js/jquery/jquery-ui.min.css?ver=6.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='https://strana-rosatom.ru/wp-content/themes/strana-rosatom/css/fontawesome-all.min.css?ver=6.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='peppermint-css'  href='https://strana-rosatom.ru/wp-content/themes/strana-rosatom/css/peppermint.suggested.css?ver=6.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='owlcarousel-css'  href='https://strana-rosatom.ru/wp-content/themes/strana-rosatom/js/OwlCarousel/owl.carousel.min.css?ver=1587159900' type='text/css' media='all' />
+<link rel='stylesheet' id='validate-engine-css-css'  href='https://strana-rosatom.ru/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css?ver=2.10.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://strana-rosatom.ru/wp-includes/css/dist/block-library/style.min.css?ver=6.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='qna-text-block-css-css'  href='https://strana-rosatom.ru/wp-content/themes/strana-rosatom/js/blocks/qna_text_block.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='qna-info-block-css-css'  href='https://strana-rosatom.ru/wp-content/themes/strana-rosatom/js/blocks/qna_info_block.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='qna-set-link-block-css-css'  href='https://strana-rosatom.ru/wp-content/themes/strana-rosatom/js/blocks/qna_set_link_block.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='qna-info-block-page-css-css'  href='https://strana-rosatom.ru/wp-content/themes/strana-rosatom/js/blocks/qna_info_block_page.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='qna-info-block-posts-css-css'  href='https://strana-rosatom.ru/wp-content/themes/strana-rosatom/js/blocks/qna_info_block_posts.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='people-topimg-block-css-css'  href='https://strana-rosatom.ru/wp-content/themes/strana-rosatom/js/blocks/people_topimg_block.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='people-toptext-block-css-css'  href='https://strana-rosatom.ru/wp-content/themes/strana-rosatom/js/blocks/people_toptext_block.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='people-headingtext-block-css-css'  href='https://strana-rosatom.ru/wp-content/themes/strana-rosatom/js/blocks/people_headingtext_block.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='people-separatortext-block-css-css'  href='https://strana-rosatom.ru/wp-content/themes/strana-rosatom/js/blocks/people_separatortext_block.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='people-qntext-block-css-css'  href='https://strana-rosatom.ru/wp-content/themes/strana-rosatom/js/blocks/people_qntext_block.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='people-imgwithtext-block-css-css'  href='https://strana-rosatom.ru/wp-content/themes/strana-rosatom/js/blocks/people_imgwithtext_block.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='people-centertext-block-css-css'  href='https://strana-rosatom.ru/wp-content/themes/strana-rosatom/js/blocks/people_centertext_block.css?ver=1.0.1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<script type='text/javascript' src='https://strana-rosatom.ru/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://strana-rosatom.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://strana-rosatom.ru/wp-content/themes/strana-rosatom/js/jquery/jquery-ui.min.js?ver=6.0.6' id='jqueryui-js'></script>
+<script type='text/javascript' src='https://strana-rosatom.ru/wp-content/themes/strana-rosatom/js/bootstrap/bootstrap.min.js?ver=6.0.6' id='bootstrap-js'></script>
+<script type='text/javascript' src='https://strana-rosatom.ru/wp-content/themes/strana-rosatom/js/peppermint.min.js?ver=6.0.6' id='peppermint-js'></script>
+<script type='text/javascript' id='site-js-extra'>
+/* <![CDATA[ */
+var myajax = {"url":"https:\/\/strana-rosatom.ru\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://strana-rosatom.ru/wp-content/themes/strana-rosatom/js/site.js?ver=1701980093' id='site-js'></script>
+<script type='text/javascript' src='https://strana-rosatom.ru/wp-content/themes/strana-rosatom/js/OwlCarousel/owl.carousel.min.js?ver=6.0.6' id='owlcarousel-js'></script>
+<link rel="https://api.w.org/" href="https://strana-rosatom.ru/wp-json/" /><link rel="alternate" type="application/json" href="https://strana-rosatom.ru/wp-json/wp/v2/posts/51331" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://strana-rosatom.ru/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://strana-rosatom.ru/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0.6" />
+<link rel="canonical" href="https://strana-rosatom.ru/2023/03/27/ruslan-dimuhamedov-o-planah-moderni/" />
+<link rel='shortlink' href='https://strana-rosatom.ru/?p=51331' />
+<link rel="alternate" type="application/json+oembed" href="https://strana-rosatom.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstrana-rosatom.ru%2F2023%2F03%2F27%2Fruslan-dimuhamedov-o-planah-moderni%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://strana-rosatom.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstrana-rosatom.ru%2F2023%2F03%2F27%2Fruslan-dimuhamedov-o-planah-moderni%2F&#038;format=xml" />
+<meta http-equiv="cache-control" content="no-cache"><meta http-equiv="expires" content="0"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta charset="utf-8"><meta name="copyright" lang="ru" content="2010-2023 Страна Росатом" /><!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-HBFRDDQP7Y"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'G-HBFRDDQP7Y');
+		</script><!-- Yandex.Metrika counter -->
+		<script type="text/javascript" >
+		   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+		   m[i].l=1*new Date();
+		   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+		   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+		   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+		
+		   ym(52847488, "init", {
+				clickmap:true,
+				trackLinks:true,
+				accurateTrackBounce:true,
+				webvisor:true
+		   });
+		</script>
+		<noscript><div><img src="https://mc.yandex.ru/watch/52847488" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+		<!-- /Yandex.Metrika counter --><meta name="yandex-verification" content="940390e02ed327a1" /><meta name="google-site-verification" content="rXmv8kKazyaARdnol6RphH4INoqTSQ4in6mjmDiwXPM" /><meta name="mailru-verification" content="0002984c9948dc7a" /><title>Руслан Димухамедов — о планах модернизации Соликамского магниевого завода</title><meta name="description" content="СМЗ, недавно переданный под управление «Росатома», —&nbsp;​предприятие стратегического значения: производит магний и&nbsp;титан, редкие и&nbsp;редкоземельные металлы для высокотехнологичных индустрий. В&nbsp;январе гендиректором завода назначили Руслана Димухамедова. В&nbsp;интервью «СР» он рассказал о&nbsp;сложной технологической цепочке, механизме ценообразования и&nbsp;поделился идеями по&nbsp;развитию предприятия. Непрерывные процессы — Заводу почти 90&nbsp;лет. Некоторые цеха выглядят довольно изношенными. Вероятно, сказывается и&nbsp;то, что в&nbsp;производстве используют агрессивные вещества. "/><meta name="keywords" content="СМЗ, Соликамский магниевый завод"><meta property="og:locale" content="ru_RU"/><meta property="og:type" content="article"/><meta property="og:title" content="Руслан Димухамедов — о планах модернизации Соликамского магниевого завода"/><meta property="og:description" content="СМЗ, недавно переданный под управление «Росатома», —&nbsp;​предприятие стратегического значения: производит магний и&nbsp;титан, редкие и&nbsp;редкоземельные металлы для высокотехнологичных индустрий. В&nbsp;январе гендиректором завода назначили Руслана Димухамедова. В&nbsp;интервью «СР» он рассказал о&nbsp;сложной технологической цепочке, механизме ценообразования и&nbsp;поделился идеями по&nbsp;развитию предприятия. Непрерывные процессы — Заводу почти 90&nbsp;лет. Некоторые цеха выглядят довольно изношенными. Вероятно, сказывается и&nbsp;то, что в&nbsp;производстве используют агрессивные вещества. "/><meta property="og:image" content="https://strana-rosatom.ru/wp-content/uploads/2023/03/dsc7586.jpg"/></head>
+
+
+<body class="bodymain wp-embed-responsive">
+
+	<header id="masthead">
+		<div id="masterheader" class="container">
+			<div class="masterhead-block row">
+				<div class="masterhead-logo col-5 col-md-2">
+					<a href="/"><img src="/wp-content/themes/strana-rosatom/img/logo.svg"></img></a>
+				</div>
+
+				<div class="masterhead-menu d-none d-xl-flex col-xl-5">
+					<div class="menu-container"><ul id="menu-menu1" class="menu"><li id="menu-item-28502" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28502 nav-item"><a href="https://strana-rosatom.ru/category/glavnoe/">Главное</a></li>
+<li id="menu-item-46642" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-46642 nav-item"><a href="https://strana-rosatom.ru/category/news/">Новости</a></li>
+<li id="menu-item-52325" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-52325 nav-item"><a href="#">Спецпроекты</a>
+<ul class="sub-menu">
+	<li id="menu-item-57022" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57022 nav-item"><a href="https://strana-rosatom.ru/ncphm/">Научные школы</a></li>
+	<li id="menu-item-53250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53250 nav-item"><a href="https://strana-rosatom.ru/fotokonkurs/">Красивого пути!</a></li>
+	<li id="menu-item-52326" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52326 nav-item"><a href="https://strana-rosatom.ru/people/">Разговор о главных</a></li>
+	<li id="menu-item-36622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36622 nav-item"><a href="https://strana-rosatom.ru/cosmos/">Космос</a></li>
+</ul>
+</li>
+<li id="menu-item-28507" class="in-mobile pub-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-28507 nav-item"><a href="#">Ещё&#8230;</a>
+<ul class="sub-menu">
+	<li id="menu-item-28505" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28505 nav-item"><a href="https://strana-rosatom.ru/category/tehnologii/">Технологии</a></li>
+	<li id="menu-item-28504" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28504 nav-item"><a href="https://strana-rosatom.ru/category/people/">Люди</a></li>
+	<li id="menu-item-28506" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28506 nav-item"><a href="https://strana-rosatom.ru/category/history/">История</a></li>
+	<li id="menu-item-28508" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28508 nav-item"><a href="https://strana-rosatom.ru/category/sinhroinfotron/">Синхроинфотрон</a></li>
+	<li id="menu-item-29319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29319 nav-item"><a href="/game">Игры</a></li>
+</ul>
+</li>
+</ul></div>															<!--
+				<div class="search-menu">
+								
+				</div>
+				-->
+				</div>
+
+				<div class="masterhead-right-menu d-none d-md-flex col col-xl-5">
+					<a href="/%d0%b0%d1%80%d1%85%d0%b8%d0%b2/" class="archive">Архив</a>
+					<a target="_Blank" href="https://archive.strana-rosatom.ru/" class="archive">Медиабанк</a>
+					<div class="search-btn">
+						<span></span>
+					</div>
+					<div class="masterhead-social">
+						<a target="_Blank" href="https://vk.com/stranarosatom"><span class="vk"></span></a>
+						<!--<a target="_Blank" href="https://www.facebook.com/stranarosatom/"><span class="fb"></span></a>-->
+						<a target="_Blank" href="https://t.me/StranaRosatom"><span class="telegram"></span></a>
+						<a target="_Blank" href="http://youtube.com/@strana_rosatom"><span class="youtube"></span></a>
+						<!--<a target="_Blank" href="https://www.instagram.com/strana_rosatom/"><span class="instagram"></span></a>-->
+						<!--<a target="_Blank" href="https://www.flickr.com/photos/rosatom/albums"><span class="flickr"></span></a>-->
+						<!--<a target="_Blank" href="https://archive.strana-rosatom.ru/" class="statistic" statid="36401" stataction="click"><span class="archivelink"></span></a>-->
+					</div>
+
+				</div>
+
+				<div class="header-search">
+					<div class="header-search-in">
+						<form role="search" method="get" id="searchform" action="https://strana-rosatom.ru/">
+							<div class="search-block__in">
+								<div class="search-submit">
+									<span></span>
+								</div>
+
+								<div class="search-block__string">
+									<input type="text" value="" name="s" id="s" placeholder="ПОИСК" autocomplete="off">
+								</div>
+
+								<div class="search-close">
+									<span></span>
+								</div>
+							</div>
+						</form>
+					</div>
+				</div>
+
+
+				<div class="masterhead-menu-mobile d-none d-flex d-md-none col">
+					<div class="search-btn">
+						<span></span>
+					</div>
+					<div class="burger-button">
+						<span></span>
+					</div>
+
+					<!--					
+				<div class="search-menu-mobile">
+												
+				</div>
+				-->
+
+				</div>
+
+				<div class="menu-mobile">
+					<div class="masterhead-social">
+						<a target="_Blank" href="https://vk.com/stranarosatom"><span class="vk"></span></a>
+						<!--<a target="_Blank" href="https://www.facebook.com/stranarosatom/"><span class="fb"></span></a>-->
+						<a target="_Blank" href="https://t.me/StranaRosatom"><span class="telegram"></span></a>
+						<a target="_Blank" href="http://youtube.com/@strana_rosatom"><span class="youtube"></span></a>
+						<!--<a target="_Blank" href="https://www.instagram.com/strana_rosatom/"><span class="instagram"></span></a>-->
+						<!--<a target="_Blank" href="https://www.flickr.com/photos/rosatom/albums"><span class="flickr"></span></a>-->
+						<!--<a target="_Blank" href="https://archive.strana-rosatom.ru/" class="statistic" statid="36401" stataction="click"><span class="archivelink"></span></a>-->
+					</div>
+					<div class="menu-mobile__in">
+						<a href="/%d0%b0%d1%80%d1%85%d0%b8%d0%b2/" class="archive">Архив</a>
+						<a target="_Blank" href="https://archive.strana-rosatom.ru/" class="archive">Медиабанк</a>
+						<div class="menu-mobile-in"><ul id="menu-menu1-1" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28502 nav-item"><a href="https://strana-rosatom.ru/category/glavnoe/">Главное</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-46642 nav-item"><a href="https://strana-rosatom.ru/category/news/">Новости</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-52325 nav-item"><a href="#">Спецпроекты</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57022 nav-item"><a href="https://strana-rosatom.ru/ncphm/">Научные школы</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53250 nav-item"><a href="https://strana-rosatom.ru/fotokonkurs/">Красивого пути!</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52326 nav-item"><a href="https://strana-rosatom.ru/people/">Разговор о главных</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36622 nav-item"><a href="https://strana-rosatom.ru/cosmos/">Космос</a></li>
+</ul>
+</li>
+<li class="in-mobile pub-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-28507 nav-item"><a href="#">Ещё&#8230;</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28505 nav-item"><a href="https://strana-rosatom.ru/category/tehnologii/">Технологии</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28504 nav-item"><a href="https://strana-rosatom.ru/category/people/">Люди</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28506 nav-item"><a href="https://strana-rosatom.ru/category/history/">История</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28508 nav-item"><a href="https://strana-rosatom.ru/category/sinhroinfotron/">Синхроинфотрон</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29319 nav-item"><a href="/game">Игры</a></li>
+</ul>
+</li>
+</ul></div>					</div>
+				</div>
+
+			</div>
+
+			<div class="submenu-container collapse">
+				<div class="container">
+					<div class="container-in">
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</header>
+
+	<div id="page" class="container">
+
+		<div class="reg-block topwindow" logout="">
+
+			<div class="reg-block-in">
+
+				<div class="close-btn">
+					<span></span>
+				</div>
+
+				<div class="reg-form-key">
+					<span class="auth active">Авторизация</span>
+					<span class="reg">Регистрация</span>
+				</div>
+
+				<div class="reg-form-tab">
+
+					<text class="alert-auth"></text>
+
+					<div class="tab reg-form-reg">
+													<form name="registrationform" id="registrationform" method="post" class="userform regform" action="">
+								<input type="text" class="input-text" name="user_login" id="user_login" placeholder="Логин">
+								<input type="email" class="input-text" name="user_email" id="user_email" placeholder="Email">
+
+								<input type="password" class="input-text" name="pass1" id="pass1" placeholder="Пароль">
+								<input type="password" class="input-text" name="pass2" id="pass2" placeholder="Повторите пароль">
+
+								<input type="submit" class="registration-btn input-btn" value="Зарегистрироваться">
+								<input type="hidden" name="redirect_to" value="/2023/03/27/ruslan-dimuhamedov-o-planah-moderni/">
+								<input type="hidden" name="session" value="c8721484fe">
+								<input type="hidden" name="action" value="register_me">
+								<div class="response"></div>
+							</form>
+						
+					</div>
+
+					<div class="tab active reg-form-auth">
+
+													<form name="loginform" id="loginform" method="post" class="userform authform" action="">
+								<input type="text" class="input-text" name="log" id="user_login" placeholder="Логин или email">
+								<input type="password" class="input-text" name="pwd" id="user_pass" placeholder="Пароль"><br>
+								<div class="remember">
+									<input name="rememberme" type="checkbox" value="forever"> Запомнить меня
+									<br><a href="#" class="resetpswd-btn">Забыли пароль?</a><br>
+								</div>
+								<input type="submit" class="auth-btn input-btn" value="Войти">
+								<input type="hidden" name="redirect_to" value="/2023/03/27/ruslan-dimuhamedov-o-planah-moderni/">
+								<input type="hidden" name="session" value="8d6643533c">
+								<input type="hidden" name="action" value="login_me">
+								<div class="response"></div>
+							</form>
+						
+					</div>
+
+					<div class="tab reg-form-reset">
+
+													<p>Сброс пароля</p>
+							<form name="lostpasswordform" id="lostpasswordform" method="post" class="userform resetform">
+								<input type="text" class="input-text" name="user_login" placeholder="Ваш логин или email">
+								<input type="submit" class="reset-btn input-btn" value="Сбросить">
+								<input type="hidden" name="redirect_to" value="/">
+								<input type="hidden" name="session" value="4a913edb8e">
+								<input type="hidden" name="action" value="reset_me">
+								<div class="response"></div>
+							</form>
+						
+					</div>
+
+
+				</div>
+			</div>
+		</div>
+
+		<!--
+	<div class="newissue-block">
+		<div class="close-btn2">
+				<span></span>
+		</div>
+		<div class="issue-block-in">
+			<div class="issue-block-text"> 
+			<h3>Свежий номер уже доступен</h3>
+			</div>
+							<div class="issue-end-download"> 
+				<a class="notlogged" href="">Скачать</a>
+			</div>
+					</div>
+		
+		<div class="issue-block-back"></div>
+		
+	</div>
+	-->
+
+		<div class="photo-viewer topwindow">
+			<div class="photo-viewer-in">
+
+				<div class="close-btn3">
+					<span></span>
+				</div>
+
+				<div class="photo-viewer-img">
+
+				</div>
+				<div class="photo-viewer-slider peppermint">
+					<div class="photo-viewer-slider-in peppermint">
+					</div>
+
+					<div class="peppermint-bnts">
+						<div tabindex="0" role="button" class="peppermint-bnt peppermint-bnts-left">
+							<span></span>
+						</div>
+
+						<div tabindex="0" role="button" class="peppermint-bnt peppermint-bnts-right">
+							<span></span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!--
+	<div class="subscribe-window topwindow">
+	  <div class="subscribe-window__in">
+		  <div class="close-btn"><span></span></div>
+					</div>
+	</div>
+	-->
+		<!--
+	<div class="subscribe-window2 topwindow">
+	  <div class="subscribe-window2__in">
+		  <div class="close-btn4"><span></span></div>
+			
+			
+			
+		</div>
+	</div>
+	-->
+
+		<div class="window-subscribe it-window">
+			<div class="window-in">
+				<div class="window-close window-close-it"><span></span></div>
+
+				<img class="subscribe-mobile-img" src="/wp-content/uploads/2020/10/strana-rosatom-subscribe-mobile.png">
+				<div class="subscribe-block-in">
+
+					<form id="unisender-form" class="unisender-form">
+						<div class="responsive">
+							<div class="subscribe-in11">
+								<span class="text1">Подпишитесь на</span>
+								<span class="text2">«СР-КУРЬЕР»</span>
+								<span class="text3">Быстрая и маленькая, как атом, газета&nbsp;— доставляем свежие новости из&nbsp;«Росатома», России&nbsp;и&nbsp;мира прямиком в ваш почтовый ящик</span>
+							</div>
+
+							<div class="subscribe-in22">
+								<input type="text" class="subscribe-email2 unisender-mail" name="unisender-mail" placeholder="Введите ваш e-mail">
+								<div class="subscribe2-btn subscribe-btn"></div>
+								<input type="hidden" name="action" value="truesubscribe">
+							</div>
+							<div class="response"></div>
+
+							<div class="subscribe-in22">
+								<div class="noshow-button">
+									<span>Больше не показывать</span>
+								</div>
+
+							</div>
+
+						</div>
+					</form>
+
+				</div>
+			</div>
+		</div>
+
+
+
+
+		<div class="window-youhistory it-window">
+			<div class="window-in">
+				<div class="window-close window-close-it"></div>
+
+				<form id="formyouhistory">
+					<div class="youhistory-text">
+						<h5>Вы знаете больше и готовы рассказать?</h5>
+						<p>У вас есть интересная история или вы знаете больше о теме, по которой мы уже выпустили материал. Поделитесь с СР любой идеей. Ждем ваших сообщений!</p>
+					</div>
+					<div class="youhistory-inputs">
+						<input type="email" class="youhistory-input youhistory-email" name="youhistory-email" placeholder="E-mail"></input>
+						<textarea class="youhistory-input youhistory-message" name="youhistory-message" placeholder="Напишите сообщение"></textarea>
+					</div>
+					<div class="response"></div>
+
+					<div class="youhistory-bottom">
+						<input type="file" name="youhistory-file" id="youhistory-file" class="youhistory-file">
+						<label for="youhistory-file" class="youhistory-file-btn">Прикрепить файл</label>
+						<div class="send-youhistory-btn">Отправить</div>
+						<input type="hidden" name="action" value="getyouhistory"></input>
+					</div>
+				</form>
+
+
+				<div class="window-succes" style="display:none;">
+					<div class="window-succes-in">
+						<div class="window-close window-close-it"></div>
+						<h5>Спасибо!</h5>
+					</div>
+				</div>
+
+
+			</div>
+		</div>
+
+
+		<div class="window-fotokonkurs-up it-window">
+			<div class="window-out">
+				<a target="_Blank" href="/fotokonkurs/">
+					<div class="window-in">
+						<div class="window-close window-close-it"><span></span></div>
+						<div class="fotokonkurs-block-in">
+							<p>«Страна Росатом» и «Атомфлот» подводят итоги конкурса фото и видео. Голосуйте за лучшие работы в номинациях «Природа Арктики», «Работа в Арктике» и «Люди СМП».</p>
+							<p>ПЕРЕЙТИ</p>
+						</div>
+
+					</div>
+				</a>
+			</div>
+		</div>
+
+
+		<div class="window-ncphm-up it-window">
+			<div class="window-out">
+				<a target="_Blank" href="/ncphm/">
+					<div class="window-in">
+						<div class="window-close window-close-it"><span></span></div>
+						<div class="ncphm-block-in">
+							
+						</div>
+
+					</div>
+				</a>
+			</div>
+		</div>
+
+		<div class="background-black"></div>
+
+
+	<div class="statistic-opened" style="display:none;opacity:0;" statid="51331" stataction="opened"></div>
+	
+
+<div id="main" class="content-nohome single-post row justify-content-center">
+
+	<div class="content single col-md-7 col-xl-8">	
+					
+					<div class="post-meta post-meta1 ">
+						<!--<div class="post-meta-in"><span class="topic-name">ТЕМА НОМЕРА</span><span class="topic-num">2018 №3</span></div>-->	
+						<div class="post-meta-in">					
+							<div class="topic">								
+																			<a class="catlink" href="https://strana-rosatom.ru/category/news/">Новости.</a>
+											 
+							</div>
+						</div>
+						 
+							<div class="post-meta-in author-text"><span class="topic-author-text"><a href="https://strana-rosatom.ru/post_author/juliya-gileva/">Юлия Гилева</a></span></div>
+												 
+							<div class="post-meta-in author-photo"><span class="topic-author-photo"><a href="https://strana-rosatom.ru/photo_author/artem-kuryshov/">Артем Курышов</a> </span></div> 
+												<div class="post-meta-in"><span class="topic-date">27 марта 2023 в 15:25</span></div>
+					</div>
+				
+					<div class="content-title"><h1>Руслан Димухамедов — о планах модернизации Соликамского магниевого завода</h1></div>
+					
+					<div class="post-meta post-meta2">	
+						 
+							<div class="post-meta-in author-text"><span class="topic-author-text"><a href="https://strana-rosatom.ru/post_author/juliya-gileva/">Юлия Гилева</a> </span></div>
+												 
+							<div class="post-meta-in author-photo"><span class="topic-author-photo"><a href="https://strana-rosatom.ru/photo_author/artem-kuryshov/">Артем Курышов</a> </span></div> 
+											</div>
+	</div>
+
+	<div class="content single nothome col-md-7 col-xl-8">
+		<div class="post-in">
+			
+					
+					
+					<div class="post-img"> 
+																<img width="1000" height="562" src="https://strana-rosatom.ru/wp-content/uploads/2023/03/dsc7586.jpg" class="attachment-post_thumbnails2 size-post_thumbnails2 wp-post-image" alt="" srcset="https://strana-rosatom.ru/wp-content/uploads/2023/03/dsc7586.jpg 1000w, https://strana-rosatom.ru/wp-content/uploads/2023/03/dsc7586-300x169.jpg 300w, https://strana-rosatom.ru/wp-content/uploads/2023/03/dsc7586-768x432.jpg 768w, https://strana-rosatom.ru/wp-content/uploads/2023/03/dsc7586-600x337.jpg 600w" sizes="(max-width: 1000px) 100vw, 1000px" />													</div>
+						
+					
+					
+<p><strong>СМЗ, недавно переданный под управление «Росатома», —&nbsp;​предприятие стратегического значения: производит магний и&nbsp;титан, редкие и&nbsp;редкоземельные металлы для высокотехнологичных индустрий. В&nbsp;январе гендиректором завода назначили Руслана Димухамедова. В&nbsp;интервью «СР» он рассказал о&nbsp;сложной технологической цепочке, механизме ценообразования и&nbsp;поделился идеями по&nbsp;развитию предприятия.</strong></p>
+
+
+
+<h5><strong>Непрерывные процессы</strong></h5>
+
+
+
+<p><strong><em>— Заводу почти 90&nbsp;лет. Некоторые цеха выглядят довольно изношенными. Вероятно, сказывается и&nbsp;то, что в&nbsp;производстве используют агрессивные вещества. Может&nbsp;ли в&nbsp;принципе на&nbsp;таких предприятиях все блестеть?</em></strong></p>
+
+
+
+<p>— Навести на&nbsp;СМЗ такой лоск, как на&nbsp;авиационных заводах, не&nbsp;получится. Здесь идет химический процесс, растворы разъедают все подряд. Часть оборудования быстро деградирует. Тот&nbsp;же хлоратор, где перерабатывают лопаритовый концентрат, каждые три квартала разбирают до&nbsp;фундамента и&nbsp;пересобирают. Такая особенность технологического процесса. В&nbsp;агрессивной среде газообразного хлора варится, по&nbsp;сути, камень при температуре 1 тыс. °C. Регулярное обновление производственного оборудования чуть&nbsp;ли не&nbsp;основная статья затрат завода.</p>
+
+
+
+<p>Часть зданий была построена еще в&nbsp;1936&nbsp;году. Конечно, их обследуют и&nbsp;ремонтируют, чтобы не&nbsp;допустить обнажения бетонных конструкций до&nbsp;металла и&nbsp;коррозии арматуры. Хотелось&nbsp;бы разобрать какие-нибудь строения и&nbsp;построить новые, но&nbsp;тогда придется на&nbsp;время остановить производство. Завод работает как единый организм, цеха связаны друг с&nbsp;другом технологическим процессом. Перестройка займет несколько лет, не&nbsp;будет выпускаться продукция, потребитель переориентируется на&nbsp;других поставщиков, будут потеряны рынки сбыта, выручка, рабочие места. Так что путь у&nbsp;нас пока один&nbsp;—&nbsp;​непрерывная модернизация производственных фондов, непрерывный ремонт.</p>
+
+
+
+<p>Тут надо добавить, что в последние годы завод хронически недофинансировался. Тем не менее ремонтная кампания выполнялась. Если конъюнктура на рынке будет благоприятной, максимум дополнительных средств мы направим на реновацию производственных фондов.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="https://strana-rosatom.ru/wp-content/uploads/2023/03/dsc7459-1024x576.jpg" alt="" class="wp-image-51646" srcset="https://strana-rosatom.ru/wp-content/uploads/2023/03/dsc7459-1024x576.jpg 1024w, https://strana-rosatom.ru/wp-content/uploads/2023/03/dsc7459-300x169.jpg 300w, https://strana-rosatom.ru/wp-content/uploads/2023/03/dsc7459-768x432.jpg 768w, https://strana-rosatom.ru/wp-content/uploads/2023/03/dsc7459-600x337.jpg 600w, https://strana-rosatom.ru/wp-content/uploads/2023/03/dsc7459.jpg 1240w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Часть зданий СМЗ была построена еще в 1936 году</figcaption></figure>
+
+
+
+<h5><strong>Обеспечить окупаемость</strong></h5>
+
+
+
+<p><strong><em>—</em></strong><strong><em> </em></strong><strong><em>Какие задачи поставлены перед вами?</em></strong></p>
+
+
+
+<p>— Подготовить завод к&nbsp;модернизации, в&nbsp;частности производственные фонды&nbsp;—&nbsp;​к&nbsp;увеличению поставок лопарита, чтобы перерабатывать в&nbsp;полтора раза больше. Кроме того, надо повышать глубину переработки. Есть планы построить разделительный передел для редкоземельных металлов, повысить глубину переработки танталовой и&nbsp;ниобиевой продукции.</p>
+
+
+
+<p><strong><em>—</em></strong><strong><em> </em></strong><strong><em>Модернизация будет финансироваться за&nbsp;счет возвратных инвестиций или через дотации?</em></strong></p>
+
+
+
+<p>— В&nbsp;первую очередь нужно обеспечить окупаемость инвестиций. В&nbsp;советские годы СМЗ был флагманом, предприятием первой категории. К&nbsp;нему было повышенное внимание, это касалось и&nbsp;производственных фондов, и&nbsp;жилья. Зарплаты здесь опережали зарплаты на&nbsp;всех остальных предприятиях в&nbsp;округе. Сейчас мы работаем в&nbsp;условиях рыночной экономики, и&nbsp;конъюнктура, цена дают вырваться вперед «Уралкалию». У&nbsp;удобрений большая маржинальность, чем у&nbsp;магния, редких и&nbsp;редкоземельных металлов. От&nbsp;этого нам не&nbsp;уйти. Так что, повторюсь, надо думать, как модернизировать и&nbsp;развивать производство с&nbsp;учетом реалий.</p>
+
+
+
+<p>Мы столкнулись со&nbsp;всем ворохом проблем, характерных для постсоветского периода, когда каждую копеечку нужно считать, когда приходится конкурировать с&nbsp;импортом металлов. Еще учтите, что цены на&nbsp;продукцию у&nbsp;нас привязаны к&nbsp;мировым котировкам, тогда как внутренние расценки на&nbsp;затратные статьи привязываются к&nbsp;российской инфляции.</p>
+
+
+
+<p>Балансировать в&nbsp;таких непростых условиях&nbsp;—&nbsp;​в&nbsp;этом и&nbsp;заключается искусство управления Соликамским магниевым заводом. СМЗ, как и&nbsp;многие другие предприятия России, получил запас прочности в&nbsp;результате роста курса доллара с&nbsp;2014&nbsp;года. В&nbsp;общем и&nbsp;сейчас курс доллара способствует повышению доходности. Так и&nbsp;балансируем.</p>
+
+
+
+<p>В&nbsp;предыдущие два года цена на&nbsp;магний поднялась более чем в&nbsp;два раза, и&nbsp;это сформировало для СМЗ подушку безопасности, которая, как я&nbsp;рассчитываю, позволит пройти 2023&nbsp;год с&nbsp;минимальными потерями, несмотря на&nbsp;то, что в&nbsp;этом году цены на&nbsp;магний уже не&nbsp;такие.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1000" height="667" src="https://strana-rosatom.ru/wp-content/uploads/2023/03/dsc7470.jpg" alt="" class="wp-image-51243" srcset="https://strana-rosatom.ru/wp-content/uploads/2023/03/dsc7470.jpg 1000w, https://strana-rosatom.ru/wp-content/uploads/2023/03/dsc7470-300x200.jpg 300w, https://strana-rosatom.ru/wp-content/uploads/2023/03/dsc7470-768x512.jpg 768w, https://strana-rosatom.ru/wp-content/uploads/2023/03/dsc7470-600x400.jpg 600w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption>В&nbsp;такой форме СМЗ отправляет свой магний потребителям по всей стране</figcaption></figure>
+
+
+
+<p><strong><em>—</em></strong><strong><em> </em></strong><strong><em>Может&nbsp;ли СМЗ рассчитывать на&nbsp;субсидии от&nbsp;государства?</em></strong></p>
+
+
+
+<p>— Безвозвратные субсидии&nbsp;—&nbsp;​непопулярная мера, которая сегодня категорически не&nbsp;приветствуется федеральными органами исполнительной власти. Более вероятно&nbsp;—&nbsp;​налоговые льготы. А&nbsp;вот какими они могут быть или какими должны быть другие меры регулирования внутреннего рынка&nbsp;— это как раз предмет моей работы вместе с&nbsp;коллегами из&nbsp;«Росатома» в&nbsp;ближайшее время. Наша задача&nbsp;—&nbsp;​спланировать развитие СМЗ таким образом, чтобы, с&nbsp;одной стороны, у&nbsp;нас маржинальность повысилась, а&nbsp;с&nbsp;другой&nbsp;—&nbsp;​чтобы эта маржинальность не&nbsp;ударила по&nbsp;следующим переделам, которые потребляют наш магний и&nbsp;редкоземельные металлы. Ключевые задачи на&nbsp;2023&nbsp;год&nbsp;—&nbsp;​сформировать сквозную программу развития и&nbsp;проработать все меры поддержки.</p>
+
+
+
+<h5><strong>Пошлины и&nbsp;дисконты</strong></h5>
+
+
+
+<p><strong><em>—</em></strong><strong><em> </em></strong><strong><em>Какой подход будете применять для решения этой задачи?</em></strong></p>
+
+
+
+<p>— Комплексную проблему нужно разложить на&nbsp;составляющие и&nbsp;для каждой выработать механизм решения. Например, если мы добудем в&nbsp;полтора раза больше лопарита на&nbsp;Ловозерском ГОКе, может сократиться как себестоимость его добычи в&nbsp;Мурманской области, так и&nbsp;себестоимость его переработки здесь. Конечно, так все проблемы мы не&nbsp;решим. Потому что в&nbsp;конечном счете себестоимость привязана к&nbsp;электроэнергии, которая тратится на&nbsp;переработку. Хлор фактически отдается по&nbsp;номинальной стоимости. Но&nbsp;общецеховые расходы так или иначе будут сокращены, соответственно, снизится и&nbsp;себестоимость производства редкоземельных металлов.</p>
+
+
+
+<p>Далее. Формула ценообразования для продукции СМЗ выглядит следующим образом: мировые цены плюс ввозная пошлина для аналогичной продукции плюс транспортная составляющая. То&nbsp;есть сколько&nbsp;бы заплатил за&nbsp;импортную продукцию российский покупатель.</p>
+
+
+
+<p><strong><em>—</em></strong><strong><em> </em></strong><strong><em>Вы обязательно такую цену должны выставлять? Не&nbsp;продаете с&nbsp;дисконтом?</em></strong></p>
+
+
+
+<p>— Где-то с&nbsp;дисконтом, где-то с&nbsp;премией за&nbsp;то, что у&nbsp;нас материал российского производства.</p>
+
+
+
+<p>Все промышленно развитые страны развивались по&nbsp;одному сценарию. Поднимали ввозные пошлины, тем самым делая внутреннее производство конкурентоспособнее. Национальные производители выходили на&nbsp;стабильную рыночную позицию. После этого уже можно было говорить о&nbsp;снижении пошлин. Таким образом государство защищает, поддерживает ту&nbsp;или иную отрасль. Но&nbsp;тут важно найти баланс. Мы&nbsp;же понимаем, что если поднимутся ввозные пошлины на&nbsp;металлы, которые производит Соликамский магниевый завод и&nbsp;которые используют, например, в&nbsp;выплавке стали и&nbsp;чугуна, то&nbsp;может обрушиться экономика производителей чермета.</p>
+
+
+
+<p>Правда, как раз производители чермета, по&nbsp;крайней мере до&nbsp;2022&nbsp;года, были в&nbsp;стабильном плюсе. Их даже обложили дополнительным налогом, в&nbsp;том числе на&nbsp;добычу полезных ископаемых. То&nbsp;есть маржинальность наших металлургов достаточно высока для того, чтобы ее часть могло получить государство за&nbsp;предоставление права добычи и&nbsp;выплавки стали.</p>
+
+
+
+<p>В&nbsp;принципе, вполне логично было&nbsp;бы часть этой формируемой ренты использовать для поддержки отечественной редкометалльной отрасли. Причем редкоземельные металлы ведь минорная добавка. Кратно улучшая качество сплава, они тем не&nbsp;менее занимают в&nbsp;нем около процента. Даже существенный рост цен на&nbsp;редкие металлы не&nbsp;повлечет за&nbsp;собой такого&nbsp;же роста цены конечной продукции&nbsp;—&nbsp;​сплавов, а&nbsp;тем более изделий из&nbsp;этих сплавов.</p>
+
+
+
+<p><strong><em>—</em></strong><strong><em> </em></strong><strong><em>Когда вы планируете представить проект стратегии развития завода?</em></strong></p>
+
+
+
+<p>— Моя задача&nbsp;—&nbsp;​к&nbsp;концу мая сформировать видение программы развития с&nbsp;учетом возможных мер поддержки и&nbsp;дальше проработать эти идеи с&nbsp;покупателями, поставщиками, федеральными органами власти.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1000" height="667" src="https://strana-rosatom.ru/wp-content/uploads/2023/03/dsc7477.jpg" alt="" class="wp-image-51244" srcset="https://strana-rosatom.ru/wp-content/uploads/2023/03/dsc7477.jpg 1000w, https://strana-rosatom.ru/wp-content/uploads/2023/03/dsc7477-300x200.jpg 300w, https://strana-rosatom.ru/wp-content/uploads/2023/03/dsc7477-768x512.jpg 768w, https://strana-rosatom.ru/wp-content/uploads/2023/03/dsc7477-600x400.jpg 600w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption>Одна из&nbsp;технологических операций с&nbsp;карбонатами редкоземельных металлов</figcaption></figure>
+
+
+
+<h5><strong>«Солнца тут намного больше, чем в&nbsp;Москве»</strong></h5>
+
+
+
+<p><strong><em>—</em></strong><strong><em> </em></strong><strong><em>В&nbsp;России и в&nbsp;мире растет спрос на&nbsp;электромобили. Каким путем соль, которая добывается в&nbsp;Соликамске и&nbsp;перерабатывается у&nbsp;вас на&nbsp;заводе, попадает в&nbsp;электрокары?</em></strong></p>
+
+
+
+<p>— Наш технологический процесс я&nbsp;вам уже описал. Из&nbsp;магния будет произведен алюминий, из&nbsp;которого делают корпуса машин. Из&nbsp;хлора и&nbsp;лопарита&nbsp;—&nbsp;​неодим для производства двигателей.</p>
+
+
+
+<p><strong><em>—</em></strong><strong><em> </em></strong><strong><em>А&nbsp;аккумуляторы?</em></strong></p>
+
+
+
+<p>— Там используется алюминий, который при необходимости может быть улучшен магнием.</p>
+
+
+
+<p><strong><em>—</em></strong><strong><em> </em></strong><strong><em>Как вас принял коллектив завода, какие у&nbsp;вас впечатления?</em></strong></p>
+
+
+
+<p>— Как меня принял коллектив, наверное, нужно спрашивать у&nbsp;самого коллектива. У&nbsp;меня складываются хорошие отношения со&nbsp;всеми сотрудниками. Здесь работают люди, которые включены в&nbsp;судьбу своего завода. Они воспринимают СМЗ как свой дом. И&nbsp;тут многому можно поучиться. Все работает как часы. Выполнение производственного плана каждый день на&nbsp;99,5–101 %! Все друг друга хорошо знают. У&nbsp;всех прекрасные отношения. Нет ­каких-то сложных конфликтов, никаких мадридских дворов. Я&nbsp;рад, что смог влиться в&nbsp;эту семью и&nbsp;наладить контакт.</p>
+
+
+
+<p><strong><em>—</em></strong><strong><em> </em></strong><strong><em>Как вы обустроились в&nbsp;Соликамске? Не&nbsp;самое простое решение&nbsp;—&nbsp;​уехать из&nbsp;столицы. Даже до&nbsp;Перми почти три сотни километров.</em></strong></p>
+
+
+
+<p>— Удивительно легко обустроился. Меня совершенно не&nbsp;пугают бытовые сложности. Тем более что в&nbsp;современном мире любые покупки можно делать не&nbsp;покидая дивана. В&nbsp;Соликамске свои безусловные плюсы. Белый снег, нормальный мороз, чистый воздух, настоящая русская зима. Солнца тут намного больше, чем в&nbsp;Москве. В&nbsp;этом плане я&nbsp;точно выиграл. Все недалеко, на&nbsp;дорогу уходит гораздо меньше времени. Пока, правда, я&nbsp;этой экономией не&nbsp;успеваю воспользоваться: работа занимает большую часть времени, о&nbsp;досуге думать не&nbsp;приходится.</p>
+
+
+
+<p>Зато летом рассчитываю оценить все преимущества этого края. Я&nbsp;уже ездил в&nbsp;Пермь на&nbsp;выходные, погулял по&nbsp;центру, был на&nbsp;Масленице. В&nbsp;общем, здесь невероятно душевно.</p>
+
+
+
+<p><em>Подготовлено совместно с&nbsp;редакцией журнала «Редкие&nbsp;земли».</em></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p class="has-vivid-cyan-blue-color has-text-color"><strong>СПРАВКА</strong></p>
+
+
+
+<p class="has-white-background-color has-background">Соликамский магниевый завод производит магний путем электролиза из&nbsp;карналлита&nbsp;—&nbsp;​продукции соседнего предприятия «Уралкалия». Попутный материал этой технологической цепочки&nbsp;—&nbsp;​хлор. Его на&nbsp;заводе используют в&nbsp;первую очередь для переработки лопаритового концентрата, который поставляет Ловозерский ГОК.<br><br>Лопаритовый концентрат загружают в&nbsp;хлоратор, разогревают до&nbsp;1 тыс. °C и&nbsp;подают хлор с&nbsp;магниевого производства. Так выделяется хлорид тантала, хлорид ниобия, хлорид титана и&nbsp;хлориды редкоземельных металлов, которые доводятся до&nbsp;товарной продукции: оксидов тантала, ниобия, металлического титана и&nbsp;карбонатов редкоземельных металлов.<br><br>СМЗ выпускает также титановую продукцию. По&nbsp;ней занимает несколько процентов российского рынка.</p>
+					
+					<div class="post-slider">
+						<div class="slider peppermint">
+							
+						</div>
+						
+						<div class="peppermint-bnts">
+								<div tabindex="0" role="button" class="peppermint-bnt peppermint-bnts-left">
+									<span></span>
+								</div>
+								
+								<div tabindex="0" role="button" class="peppermint-bnt peppermint-bnts-right">
+									<span></span>
+								</div>
+						</div>
+						
+					</div>
+					
+			
+			
+				            <div class="post-bottom">
+				<div class="post-social">
+					<span class="post-social-title">Поделиться</span>
+					<div class="post-social-in">
+						<div class="vk"><a target="_blank" rel="nofollow noopener" href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fstrana-rosatom.ru%2F2023%2F03%2F27%2Fruslan-dimuhamedov-o-planah-moderni%2F"></a></div>
+						<!--<div class="fb"><a target="_blank" rel="nofollow noopener" href="https://www.facebook.com/sharer/sharer.php?u=https://strana-rosatom.ru/2023/03/27/ruslan-dimuhamedov-o-planah-moderni/"></a></div>-->
+						<div class="telegram"><a target="_blank" rel="nofollow noopener" href="https://telegram.me/share/url?url=https://strana-rosatom.ru/2023/03/27/ruslan-dimuhamedov-o-planah-moderni/"></a></div>
+						<div class="twitter"><a target="_blank" rel="nofollow noopener" href="http://twitter.com/share?url=https://strana-rosatom.ru/2023/03/27/ruslan-dimuhamedov-o-planah-moderni/"></a></div>
+						<div class="odnoklassniki"><a target="_blank" rel="nofollow noopener" href="https://connect.ok.ru/offer?url=https://strana-rosatom.ru/2023/03/27/ruslan-dimuhamedov-o-planah-moderni/"></a></div>
+					</div>
+				</div>
+				<div class="post-youhistory">
+					<span class="post-youhistory-title">Есть интересная история?</span>
+					<div class="post-youhistory-in">
+						<div class="get-you-history"> 
+							<span>Напишите нам</span>
+						</div>
+					</div>
+				</div>
+			</div>			
+				        	
+						<div class="post-readmore">
+				<div class="post-readmore-in">
+					<span class="post-readmore-title">Читайте также:</span>
+					<div class="posts-readmore">
+																<div class="post photopost">
+							<div class="post-meta">
+								<!--<div class="post-meta-in"><span class="topic-name">ТЕМА НОМЕРА</span><span class="topic-num">2018 №3</span></div>-->	
+								<div class="post-meta-in">					
+									<div class="topic">								
+																							<a class="catlink" href="https://strana-rosatom.ru/category/sinhroinfotron/">Синхроинфотрон.</a>
+													 
+									</div>
+								</div>
+								<div class="post-meta-in"><span class="topic-date">9 ноября 2023</span></div>
+							</div>
+							<a target="_Blank" href="https://strana-rosatom.ru/2023/11/09/himiya-metallov-sr-proshlas-po-ceha/">
+								<div class="post-title"> 
+																			<span>Химия металлов: «СР» прошлась по&nbsp;цехам Соликамского магниевого завода</span>
+								</div>
+							</a>
+						</div>
+																<div class="post ">
+							<div class="post-meta">
+								<!--<div class="post-meta-in"><span class="topic-name">ТЕМА НОМЕРА</span><span class="topic-num">2018 №3</span></div>-->	
+								<div class="post-meta-in">					
+									<div class="topic">								
+																							<a class="catlink" href="https://strana-rosatom.ru/category/news/">Новости.</a>
+													 
+									</div>
+								</div>
+								<div class="post-meta-in"><span class="topic-date">24 октября 2023</span></div>
+							</div>
+							<a target="_Blank" href="https://strana-rosatom.ru/2023/10/24/gornaya-vozmozhnost-o-planah-rosatom/">
+								<div class="post-title"> 
+																			<span>Горная возможность: о планах «Росатома» по редким и редкоземельным металлам</span>
+								</div>
+							</a>
+						</div>
+																<div class="post ">
+							<div class="post-meta">
+								<!--<div class="post-meta-in"><span class="topic-name">ТЕМА НОМЕРА</span><span class="topic-num">2018 №3</span></div>-->	
+								<div class="post-meta-in">					
+									<div class="topic">								
+																							<a class="catlink" href="https://strana-rosatom.ru/category/news/">Новости.</a>
+													 
+									</div>
+								</div>
+								<div class="post-meta-in"><span class="topic-date">29 сентября 2023</span></div>
+							</div>
+							<a target="_Blank" href="https://strana-rosatom.ru/2023/09/29/solikamskij-magnievyj-zavod-budet-vy/">
+								<div class="post-title"> 
+																			<span>Соликамский магниевый завод будет выпускать слитки шоколада</span>
+								</div>
+							</a>
+						</div>
+										
+					</div>
+				</div>
+			</div>
+									
+		
+
+		<!-- media archive block -->
+				<!-- media archive block -->
+		
+		</div>
+	</div>
+	
+
+	
+	
+		
+	
+			<div class="content col-12">
+					
+				<div class="posts row" typeis="news">
+													
+										
+						<div class="post col-md-4 photopost" postid="58091">
+							<div class="post-in">
+						
+						<a target="_Blank" href="https://strana-rosatom.ru/2023/12/10/na-aes-akkuju-proverili-reaktor-perv/">
+								<div class="post-img"> 
+									<div class="post-img-in"> 
+																					<img width="700" height="350" src="https://strana-rosatom.ru/wp-content/uploads/2023/12/005-700x350.jpg" class="attachment-post_thumbnails1 size-post_thumbnails1 wp-post-image" alt="" loading="lazy" srcset="https://strana-rosatom.ru/wp-content/uploads/2023/12/005-700x350.jpg 700w, https://strana-rosatom.ru/wp-content/uploads/2023/12/005-400x200.jpg 400w, https://strana-rosatom.ru/wp-content/uploads/2023/12/005-1200x600.jpg 1200w" sizes="(max-width: 700px) 100vw, 700px" />																				<div class="post-back-img"></div>
+									</div>
+								</div>
+						</a>
+											
+								<div class="post-text"> 
+									<div class="post-cat">
+																								<a class="catlink" href="https://strana-rosatom.ru/category/news/">Новости</a>
+														 
+									</div>
+									<div class="post-title"> 
+										<a target="_Blank" href="https://strana-rosatom.ru/2023/12/10/na-aes-akkuju-proverili-reaktor-perv/">
+											<span>На АЭС «Аккую» проверили реактор первого энергоблока</span>
+										</a>
+									</div>
+									<span class="post-date">10 декабря 2023</span>
+
+								</div>													
+						
+						
+							</div>
+						</div>
+						
+										
+					
+													
+										
+						<div class="post col-md-4 " postid="58072">
+							<div class="post-in">
+						
+						<a target="_Blank" href="https://strana-rosatom.ru/2023/12/07/varit-prishlos-stoya-na-kolenyah-kom/">
+								<div class="post-img"> 
+									<div class="post-img-in"> 
+																					<img width="700" height="350" src="https://strana-rosatom.ru/wp-content/uploads/2023/12/29.11-700x350.png" class="attachment-post_thumbnails1 size-post_thumbnails1 wp-post-image" alt="" loading="lazy" srcset="https://strana-rosatom.ru/wp-content/uploads/2023/12/29.11-700x350.png 700w, https://strana-rosatom.ru/wp-content/uploads/2023/12/29.11-400x200.png 400w" sizes="(max-width: 700px) 100vw, 700px" />																				<div class="post-back-img"></div>
+									</div>
+								</div>
+						</a>
+											
+								<div class="post-text"> 
+									<div class="post-cat">
+																								<a class="catlink" href="https://strana-rosatom.ru/category/news/">Новости</a>
+														 
+									</div>
+									<div class="post-title"> 
+										<a target="_Blank" href="https://strana-rosatom.ru/2023/12/07/varit-prishlos-stoya-na-kolenyah-kom/">
+											<span>«Варить пришлось, стоя на коленях»: команда «Атоммаша» вернулась с чемпионата по сварке в Китае</span>
+										</a>
+									</div>
+									<span class="post-date">7 декабря 2023</span>
+
+								</div>													
+						
+						
+							</div>
+						</div>
+						
+										
+					
+													
+										
+						<div class="post col-md-4 " postid="58068">
+							<div class="post-in">
+						
+						<a target="_Blank" href="https://strana-rosatom.ru/2023/12/07/rfyac-vniitf-otgruzil-volokonnye-laze/">
+								<div class="post-img"> 
+									<div class="post-img-in"> 
+																					<img width="700" height="350" src="https://strana-rosatom.ru/wp-content/uploads/2023/12/lazeri-dlya-sils2-700x350.png" class="attachment-post_thumbnails1 size-post_thumbnails1 wp-post-image" alt="" loading="lazy" srcset="https://strana-rosatom.ru/wp-content/uploads/2023/12/lazeri-dlya-sils2-700x350.png 700w, https://strana-rosatom.ru/wp-content/uploads/2023/12/lazeri-dlya-sils2-400x200.png 400w" sizes="(max-width: 700px) 100vw, 700px" />																				<div class="post-back-img"></div>
+									</div>
+								</div>
+						</a>
+											
+								<div class="post-text"> 
+									<div class="post-cat">
+																								<a class="catlink" href="https://strana-rosatom.ru/category/news/">Новости</a>
+														 
+									</div>
+									<div class="post-title"> 
+										<a target="_Blank" href="https://strana-rosatom.ru/2023/12/07/rfyac-vniitf-otgruzil-volokonnye-laze/">
+											<span>РФЯЦ-ВНИИТФ отгрузил волоконные лазеры первым потребителям</span>
+										</a>
+									</div>
+									<span class="post-date">7 декабря 2023</span>
+
+								</div>													
+						
+						
+							</div>
+						</div>
+						
+										
+					
+													
+										
+						<div class="post col-md-4 " postid="58064">
+							<div class="post-in">
+						
+						<a target="_Blank" href="https://strana-rosatom.ru/2023/12/07/byt-ne-na-shag-a-na-vek-vperedi-nikol/">
+								<div class="post-img"> 
+									<div class="post-img-in"> 
+																					<img width="667" height="350" src="https://strana-rosatom.ru/wp-content/uploads/2023/12/br2y3497-enhanced-sr-667x350.png" class="attachment-post_thumbnails1 size-post_thumbnails1 wp-post-image" alt="" loading="lazy" />																				<div class="post-back-img"></div>
+									</div>
+								</div>
+						</a>
+											
+								<div class="post-text"> 
+									<div class="post-cat">
+																								<a class="catlink" href="https://strana-rosatom.ru/category/history/">История</a>
+																												<a class="catlink" href="https://strana-rosatom.ru/category/people/">Люди</a>
+														 
+									</div>
+									<div class="post-title"> 
+										<a target="_Blank" href="https://strana-rosatom.ru/2023/12/07/byt-ne-na-shag-a-na-vek-vperedi-nikol/">
+											<span>«Быть не на шаг, а на век впереди»: Николаю Пономареву-Степному — 95 лет</span>
+										</a>
+									</div>
+									<span class="post-date">7 декабря 2023</span>
+
+								</div>													
+						
+						
+							</div>
+						</div>
+						
+										
+					
+													
+										
+						<div class="post col-md-4 " postid="58051">
+							<div class="post-in">
+						
+						<a target="_Blank" href="https://strana-rosatom.ru/2023/12/07/blok-voprosov-skolko-vremeni-sil-i-s/">
+								<div class="post-img"> 
+									<div class="post-img-in"> 
+																					<img width="700" height="350" src="https://strana-rosatom.ru/wp-content/uploads/2023/12/dva-reaktora-leningradskoj-aes-polnostju-osvobozhdeny-ot-yadernogo-topliva_1-700x350.png" class="attachment-post_thumbnails1 size-post_thumbnails1 wp-post-image" alt="" loading="lazy" srcset="https://strana-rosatom.ru/wp-content/uploads/2023/12/dva-reaktora-leningradskoj-aes-polnostju-osvobozhdeny-ot-yadernogo-topliva_1-700x350.png 700w, https://strana-rosatom.ru/wp-content/uploads/2023/12/dva-reaktora-leningradskoj-aes-polnostju-osvobozhdeny-ot-yadernogo-topliva_1-400x200.png 400w" sizes="(max-width: 700px) 100vw, 700px" />																				<div class="post-back-img"></div>
+									</div>
+								</div>
+						</a>
+											
+								<div class="post-text"> 
+									<div class="post-cat">
+																								<a class="catlink" href="https://strana-rosatom.ru/category/tehnologii/">Технологии</a>
+														 
+									</div>
+									<div class="post-title"> 
+										<a target="_Blank" href="https://strana-rosatom.ru/2023/12/07/blok-voprosov-skolko-vremeni-sil-i-s/">
+											<span>Блок вопросов: сколько времени, сил и средств займет вывод АЭС из эксплуатации</span>
+										</a>
+									</div>
+									<span class="post-date">7 декабря 2023</span>
+
+								</div>													
+						
+						
+							</div>
+						</div>
+						
+										
+					
+													
+										
+						<div class="post col-md-4 " postid="58047">
+							<div class="post-in">
+						
+						<a target="_Blank" href="https://strana-rosatom.ru/2023/12/07/prezident-rossii-vladimir-putin-pose/">
+								<div class="post-img"> 
+									<div class="post-img-in"> 
+																					<img width="700" height="350" src="https://strana-rosatom.ru/wp-content/uploads/2023/12/ria_8574760-700x350.png" class="attachment-post_thumbnails1 size-post_thumbnails1 wp-post-image" alt="" loading="lazy" srcset="https://strana-rosatom.ru/wp-content/uploads/2023/12/ria_8574760-700x350.png 700w, https://strana-rosatom.ru/wp-content/uploads/2023/12/ria_8574760-400x200.png 400w" sizes="(max-width: 700px) 100vw, 700px" />																				<div class="post-back-img"></div>
+									</div>
+								</div>
+						</a>
+											
+								<div class="post-text"> 
+									<div class="post-cat">
+																								<a class="catlink" href="https://strana-rosatom.ru/category/glavnoe/">Главное</a>
+																												<a class="catlink" href="https://strana-rosatom.ru/category/news/">Новости</a>
+														 
+									</div>
+									<div class="post-title"> 
+										<a target="_Blank" href="https://strana-rosatom.ru/2023/12/07/prezident-rossii-vladimir-putin-pose/">
+											<span>Президент России Владимир Путин посетил павильон «Атом» на ВДНХ</span>
+										</a>
+									</div>
+									<span class="post-date">7 декабря 2023</span>
+
+								</div>													
+						
+						
+							</div>
+						</div>
+						
+										
+					
+							</div>
+			
+			<div class="bottom-button">
+				<div class="more-button">Показать ещё</div>
+			</div>
+			
+	</div>
+			 	
+	
+</div>
+
+
+	</div>
+
+
+	
+
+
+	<footer id="footer" class="">
+		<div class="container">
+			<div class="footer-in row">
+				<div class="footer-logo d-flex d-md-none col-12">
+					<img src="/wp-content/themes/strana-rosatom/img/logo.svg"></img>
+				</div>
+				<div class="footer-left col-md-3">
+					<div class="footer-left-logo">
+						<img src="/wp-content/themes/strana-rosatom/img/logo.svg"></img>
+					</div>
+					<div class="footer-left-text">
+						<text>Отраслевое издание госкорпорации «Росатом» <br> © 2010-2023</text>
+					</div>
+				</div>
+				<div class="footer-menu col-md-2">
+					<ul>
+						<li><a href="/%d1%80%d0%b5%d0%b4%d0%b0%d0%ba%d1%86%d0%b8%d1%8f/">Редакция</a></li>
+						<li><a href="/%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b/">Контакты</a></li>
+						<li><a target="_Blank" href="/wp-content/uploads/2023/06/politika-obrabotki-personalnyh-dannyh_izbrannoe.pdf">Политика обработки персональных данных</a></li>
+						<!--<li><a href="/">Пользовательское соглашение</a></li>-->
+					</ul>
+				</div>
+				<div class="footer-subscribe col-md-3">
+					<span class="subscribe-title">Будьте в курсе всех важных событий атомной отрасли</span>
+					<form id="unisender-form" class=" unisender-form">
+						<div class="subscribe-form">
+							<input type="text" class="subscribe-email2 unisender-mail" name="unisender-mail" placeholder="Введите ваш e-mail">
+							<img class="subscribe2-btn subscribe-btn" src="/wp-content/themes/strana-rosatom/img/subscribe-btn.svg">
+							<input type="hidden" name="action" value="truesubscribe">
+						</div>
+						<div class="response"></div>
+					</form>
+				</div>
+
+				<div class="footer-right col-md-4">
+					<div class="footer-right-parnters">
+						<h5>Наши партнеры</h5>
+						<a target="_blank" href="http://myatom.ru">Информационные центры атомной отрасли</a><br>
+						<a target="_blank" href="http://atominfo.ru/">Атоминфо.ру</a><br>
+						<a target="_blank" href="http://atomicexpert.com/">Журнал «Атомный эксперт»</a><br>
+						<a target="_blank" href="http://atomvestnik.ru/">Журнал «Вестник Атомпрома»</a><br>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+
+	<script type='text/javascript' src='https://strana-rosatom.ru/wp-content/themes/strana-rosatom/js/jquery/jquery.tablesorter.min.js?ver=1410828243' id='tablesorter-js'></script>
+
+	</body>
+
+	</html>
