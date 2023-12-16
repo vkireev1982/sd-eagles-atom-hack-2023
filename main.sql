@@ -30,12 +30,14 @@ CREATE TABLE tenders_works (
   id SERIAL PRIMARY KEY,
   tenderId INT NOT NULL,
   workId INT NOT NULL,
-  companyId INT NOT NULL
+  companyId INT NOT NULL,
+  price VARCHAR(255)
 );
 
 CREATE TABLE works (
   id SERIAL PRIMARY KEY,
-  title VARCHAR(255) NOT NULL
+  title VARCHAR(255) NOT NULL,
+  type VARCHAR(255)
 );
 
 ALTER TABLE tenders
