@@ -15,6 +15,8 @@ DROP TABLE IF EXISTS public.tenders CASCADE;
    id VARCHAR(10),
    cgn VARCHAR(255) NOT NULL,
    topic VARCHAR(512),
+   organization VARCHAR(512),
+   location VARCHAR(512), 
    createdat  DATE,
    --closetAt TIMESTAMP NOT NULL,
    --projectName TEXT NOT NULL,
