@@ -39,6 +39,14 @@ services:
     networks:
       - pg-net
 
+    python_src:
+    image:  python:3.9-slim-bullseye
+    volumes:
+      - src:/src
+    restart: always
+    networks:
+      - pg-net
+
 volumes:
   postgres-data:
   pgadmin-data:
