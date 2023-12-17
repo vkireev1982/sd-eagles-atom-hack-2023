@@ -4,7 +4,7 @@ from typing import Tuple, List, Dict, Any
 from tqdm.auto import tqdm
 from transformers import TokenClassificationPipeline
 
-def normlize_text(text: str) -> str:
+def normalize_text(text: str) -> str:
     text = re.sub("\n", ". ", text)
     text = re.sub("\s+", " ", text)
     return text
@@ -37,7 +37,7 @@ def get_loc_org(data: List[Dict[str, str]], classifier: TokenClassificationPipel
     res = []
     for id_doc, doc in tqdm(data.items()):
         glav_name, content = list(doc.items())[0]
-        content = normlize_text(content)
+        content = normalize_text(content)
         out = classifier(content)
         out = merge_text(out)
         d_tmp = {}

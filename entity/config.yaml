@@ -1,8 +1,8 @@
 dataset:
-  all_applic: "../data/all_applic.dat"
+  all_applic: "data/all_applic.dat"
 model:
-  model_dir: "../model"
-  use_cuda: True
-  tokenizer: "../tokenizer"
+  tokenizer: "model_artifacts/tokenizer/"
+  model: "model_artifacts/model/"
+  use_cuda: False
 out:
-  out_path_csv: "../processed_applic.csv"
+  out_path_csv: "processed_applic.csv"
